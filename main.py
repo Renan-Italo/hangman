@@ -1,6 +1,6 @@
 #preste bem a atenção: esse tipo de algoritmo usa de conjuntos (set!)
 # sendo assim, sua sintaxe é: 'set()', ele pode ser adicionado por '.add', e podemos verificar
-# se ele está contido em outro elemento pode meio do 'A.issubset(B)'
+# se ele está contido em outro elemento por meio do 'A.issubset(B)'
 
 palavra = 'ferreiro'
 print('Advinhe qual é a palavra: ')
